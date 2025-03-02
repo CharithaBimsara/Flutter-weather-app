@@ -16,19 +16,14 @@ A weather application built using Flutter that provides real-time weather inform
 - **Google Maps API** for location services
 
 ## Demo
-![Weather App Demo](https://via.placeholder.com/500x300.png)  
-*Demo screenshot of the Weather App*
+![Weather App Preview](assets/demo.png)
+
 
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weather-app.git
-
-Here is the complete section in Markdown, including the "Install dependencies" and "Run the app" steps:
-
-```markdown
-## Installation
 
 1. Navigate to the project folder:
    ```bash
@@ -50,6 +45,3 @@ Feel free to fork this repository and submit issues or pull requests. Contributi
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Now, all three steps (Navigate, Install, and Run) are fully in Markdown, and it should work perfectly when added to your README file.
